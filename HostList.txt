@@ -1,0 +1,2 @@
+HOST;USER;PASS;PORT;TargetDir;TimeOut
+nba90;appuser;089Eks,jr;22;/tmp/test;600000;SFTP
